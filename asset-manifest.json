@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GOOGLE-KEEP-APP-CLONE/static/css/main.ace483d7.css",
+    "main.js": "/GOOGLE-KEEP-APP-CLONE/static/js/main.e4e212e8.js",
+    "static/media/logo.png": "/GOOGLE-KEEP-APP-CLONE/static/media/logo.d98b83f84917add6dacf.png",
+    "index.html": "/GOOGLE-KEEP-APP-CLONE/index.html",
+    "main.ace483d7.css.map": "/GOOGLE-KEEP-APP-CLONE/static/css/main.ace483d7.css.map",
+    "main.e4e212e8.js.map": "/GOOGLE-KEEP-APP-CLONE/static/js/main.e4e212e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace483d7.css",
+    "static/js/main.e4e212e8.js"
+  ]
+}
